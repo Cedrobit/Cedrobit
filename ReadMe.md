@@ -15,6 +15,6 @@ Since the beginning of my programming days, specifically since 2019 where I bega
 Most of my projects have actually become abandonware, either because they weren't planned properly, or they had become vaporware; the latter of the two being the most common. Here's a few examples of my most popular projects that are abandonware today.
 
    * ~`Spearmint`~ - Designed with minimalism in mind, this "Operating System" (not actually, but instead a graphical user interface and no underlying components) had lots of features but it had become vaporware. It's still my most popular project for some reason whatsoever.
-   * ~`Aloemint`~ - A huge failure. Development hell, incorrect planning, too strict, very sophisticated; terrible. The project, being started on January 9th, 2025, ended up being cancelled a month later with no actual progress done!
+   * ~`Aloemint`~ - A huge failure; I supposedly wanted it to be the successor to Spearmint. Development hell, incorrect planning, too strict, very sophisticated; terrible. The project, being started on January 9th, 2025, ended up being cancelled a month later with no actual progress done!
 
 ...More coming soon!...   :-)
