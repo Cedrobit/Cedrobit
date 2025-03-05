@@ -9,7 +9,7 @@ Hey there! Glad to see you here. My name is **Daniel**, or you can just call me 
 Since the beginning of my programming days, specifically since 2019 where I began to use Scratch; I've been making countless projects ever since. Most of them are indeed unfinished, but luckily, I have a few major projects that I still develop. Here are a few.
 
    * `Coniferum` - A simplistic; not minimalist, lightweight; not bloated, and usable; not difficult Operating System written within the Scratch programming language. Fit with virtual random access memory and virtual disk systems.
-   * `Bosc` - A virtual firmware interface designed to be included within Coniferum. It aims to be easily modifiable, as well as to be easy to use while focusing on being lightweight on system resources.
+   * `Arbor` - A virtual firmware interface designed to be included within Coniferum. It aims to be easily modifiable, as well as to be easy to use while focusing on being lightweight on system resources.
 
 ### Projects (Inactive)
 Most of my projects have actually become abandonware, either because they weren't planned properly, or they had become vaporware; the latter of the two being the most common. Here's a few examples of my most popular projects that are abandonware today.
